@@ -1,11 +1,16 @@
 _repo: Francis-Parkman_55424
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   publisher_contributor:
     agent_name: Little, Brown and Company
     gutenberg_agent_id: '48346'
     url: http://www.gutenberg.org/2009/agents/48346
+covers:
+- cover_type: archival
+  image_path: 55424-h/images/cover.png
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/55424#Francis-Parkman
 gutenberg_issued: '2017-08-25'
 gutenberg_type: Text
 identifiers:
